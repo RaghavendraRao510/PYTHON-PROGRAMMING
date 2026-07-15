@@ -845,18 +845,3 @@ def fibonacci(count):
 
 print(fibonacci(10))
 ```
-
-## Revision Questions
-
-1. What is the difference between `/` and `//`?
-2. Why does `input()` return a string?
-3. What is the difference between a list and a tuple?
-4. Why can a set not contain duplicate values?
-5. What is the difference between a parameter and an argument?
-6. When should `break` and `continue` be used?
-7. Write a function that checks whether a number is prime.
-8. Write a program that finds the largest value in a list without using `max()`.
-
-## End of Notes
-
-Run the code cells one by one and modify the examples to practise each concept.
